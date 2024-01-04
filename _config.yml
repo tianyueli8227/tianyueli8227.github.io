@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Tianyue
-middle_name:
+middle_name: 
 last_name: Li
-email: you@example.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+email: til062@ucsd.edu
+description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. > # the ">" symbol means to ignore newlines until "footer_text:"
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: tianyueli8227
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
